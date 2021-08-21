@@ -1,4 +1,11 @@
 ### Hi there 👋
+ah yes, I do stuff that works unless it doesnt basically 
+yeah
+hello
+bye
+okay
+finally over?
+no?
 
 <!--
 **shruuub/shruuub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
